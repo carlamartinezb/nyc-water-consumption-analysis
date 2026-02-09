@@ -26,6 +26,9 @@ Queens and the Bronx show the highest mean daily usage, followed by Manhattan an
 - `data/` – CSV datasets
 - `figures/` – generated plots
 
+## Notes
+HCF = hundred cubic feet (1 HCF ≈ 748 gallons)
+
 ## How to run
 ```bash
 python src/analysis.py
